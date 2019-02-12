@@ -10,3 +10,6 @@ should be able to control the frame rate in the video that is created.
 Learn how to capture frames from a webcam connected to your computer and save them as
 images in a folder. You may use either the built-in camera of your laptop or an external one connected through
 USB. You should also be able to display the frames (the video) on the screen while capturing.
+
+## 3. Chroma keying:
+Create an interesting composite of two videos using this technique, possibly with one video including yourselves.
